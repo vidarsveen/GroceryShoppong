@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "navn": "Familie Poke Bowl med Laks",
+    "kilde": "https://gladkokken.no/oppskrifter/familie-poke-bowl-med-laks-alle-kan-lage-sine-favoritt-kombinasjon",
+    "porsjoner": 2,
+    "ingredienser": [
+      { "navn": "Laksefilet (fersk)", "mengde": 300, "enhet": "g" },
+      { "navn": "Sushiris", "mengde": 200, "enhet": "g" },
+      { "navn": "Riseddik", "mengde": 2, "enhet": "ss" },
+      { "navn": "Sukker", "mengde": 1, "enhet": "ts" },
+      { "navn": "Salt", "mengde": 0.5, "enhet": "ts" },
+      { "navn": "Soyasaus", "mengde": 3, "enhet": "ss" },
+      { "navn": "Sesamolje", "mengde": 1, "enhet": "ss" },
+      { "navn": "Limejuice", "mengde": 1, "enhet": "ss" },
+      { "navn": "Ingefær (fersk, revet)", "mengde": 1, "enhet": "ts" },
+      { "navn": "Avokado", "mengde": 1, "enhet": "stk" },
+      { "navn": "Agurk", "mengde": 0.5, "enhet": "stk" },
+      { "navn": "Edamame (frosne, kokte)", "mengde": 100, "enhet": "g" },
+      { "navn": "Jordbær", "mengde": 150, "enhet": "g" },
+      { "navn": "Mango", "mengde": 0.5, "enhet": "stk" },
+      { "navn": "Rødkål (finstrimlet)", "mengde": 50, "enhet": "g" },
+      { "navn": "Vårløk", "mengde": 2, "enhet": "stk" },
+      { "navn": "Sesamfrø", "mengde": 1, "enhet": "ss" },
+      { "navn": "Sriracha eller chilisaus", "mengde": 1, "enhet": "ss" },
+      { "navn": "Majones", "mengde": 2, "enhet": "ss" },
+      { "navn": "Nori (tørkede algeflak)", "mengde": 1, "enhet": "pakke" }
+    ],
+    "fremgangsmåte": [
+      "Kok sushiris etter anvisning på pakken. Bland varm ris med riseddik, sukker og salt. Sett til side.",
+      "Skjær laksen i ca. 2 cm terninger. Bland soyasaus, sesamolje, limejuice og revet ingefær i en bolle. Vend laksen i marinaden og la stå i 10–15 minutter.",
+      "Skjær avokado, agurk, mango og jordbær i biter. Del vårløk i ringer.",
+      "Fordel ris i to boller. Legg laksen og alle tilbehørene i fine båser oppå risen.",
+      "Bland majones og sriracha til spicy mayo og drypp over. Dryss sesamfrø og noriflak over til slutt."
+    ],
+    "notater": "La alle velge sine egne kombinasjoner – sett tilbehørene i separate boller på bordet."
+  },
+  {
+    "id": 2,
+    "navn": "Tikka Masala (Gladkokkens versjon)",
+    "kilde": "https://gladkokken.no/oppskrifter/tikka-masala-min-versjon-av-denne-populaere-retten",
+    "porsjoner": 2,
+    "ingredienser": [
+      { "navn": "Kyllingbryst", "mengde": 400, "enhet": "g" },
+      { "navn": "Naturell yoghurt", "mengde": 100, "enhet": "ml" },
+      { "navn": "Tikka masala-krydder", "mengde": 2, "enhet": "ss" },
+      { "navn": "Garam masala", "mengde": 1, "enhet": "ts" },
+      { "navn": "Hvitløk (presset)", "mengde": 2, "enhet": "fedd" },
+      { "navn": "Ingefær (fersk, revet)", "mengde": 1, "enhet": "ss" },
+      { "navn": "Nøytral olje", "mengde": 1, "enhet": "ss" },
+      { "navn": "Smør", "mengde": 1, "enhet": "ss" },
+      { "navn": "Løk", "mengde": 1, "enhet": "stk" },
+      { "navn": "Hvitløk (presset)", "mengde": 2, "enhet": "fedd" },
+      { "navn": "Ingefær (fersk, revet)", "mengde": 1, "enhet": "ts" },
+      { "navn": "Hakkede tomater (boks)", "mengde": 400, "enhet": "g" },
+      { "navn": "Kokosmelk (full fett)", "mengde": 200, "enhet": "ml" },
+      { "navn": "Tikka masala-krydder (saus)", "mengde": 1, "enhet": "ss" },
+      { "navn": "Koriander (fersk)", "mengde": 0.5, "enhet": "potte" },
+      { "navn": "Basmatiris", "mengde": 160, "enhet": "g" },
+      { "navn": "Nanbrød", "mengde": 2, "enhet": "stk" }
+    ],
+    "fremgangsmåte": [
+      "Bland yoghurt, tikka masala-krydder, garam masala, hvitløk og ingefær. Vend kyllingbitene i marinaden og la hvile minst 15 minutter (gjerne over natten).",
+      "Varm olje og smør i en stekepanne på høy varme. Brun kyllingen i 2–3 minutter til den har fått stekeskorpe. Den trenger ikke å være gjennomstekt ennå. Ta ut og sett til side.",
+      "Surr finhakket løk i samme panne til den er myk og gyllen, ca. 5 minutter. Tilsett hvitløk og ingefær og surr 1 minutt.",
+      "Tilsett hakkede tomater og tikka masala-krydder. La koke i 5 minutter.",
+      "Tilsett kokosmelk og la sausen småkoke i 10 minutter. Legg kyllingen tilbake og la koke i ytterligere 5–8 minutter til kyllingen er gjennomstekt.",
+      "Smak til med salt. Server med basmatiris og nanbrød. Topp med fersk koriander."
+    ],
+    "notater": "Gladkokkens versjon bruker kokosmelk istedenfor fløte – gir en lettere og litt søtere saus."
+  },
+  {
+    "id": 3,
+    "navn": "Taco med kjøttdeig",
+    "kilde": "https://www.matprat.no/taco/",
+    "porsjoner": 2,
+    "ingredienser": [
+      { "navn": "Kjøttdeig (storfe)", "mengde": 300, "enhet": "g" },
+      { "navn": "Tacokrydder", "mengde": 1, "enhet": "pakke" },
+      { "navn": "Vann", "mengde": 1, "enhet": "dl" },
+      { "navn": "Tacoskjell eller hvetetortilla", "mengde": 6, "enhet": "stk" },
+      { "navn": "Isbergsalat", "mengde": 0.25, "enhet": "hode" },
+      { "navn": "Tomat", "mengde": 2, "enhet": "stk" },
+      { "navn": "Agurk", "mengde": 0.25, "enhet": "stk" },
+      { "navn": "Rødløk", "mengde": 0.5, "enhet": "stk" },
+      { "navn": "Mais (hermetisk)", "mengde": 0.5, "enhet": "boks" },
+      { "navn": "Rømme", "mengde": 100, "enhet": "ml" },
+      { "navn": "Salsa (ferdigkjøpt)", "mengde": 150, "enhet": "g" },
+      { "navn": "Revet ost (gjerne cheddar)", "mengde": 80, "enhet": "g" },
+      { "navn": "Guacamole", "mengde": 1, "enhet": "stk" },
+      { "navn": "Lime", "mengde": 1, "enhet": "stk" }
+    ],
+    "fremgangsmåte": [
+      "Stek kjøttdeig i en tørr panne på middels-høy varme til all rødfarge er borte. Hell av eventuelt fett.",
+      "Tilsett tacokrydder og vann etter anvisning på posen. La koke inn i ca. 5 minutter.",
+      "Hakk salat, tomat, agurk og rødløk i biter. Legg tilbehørene i separate skåler på bordet.",
+      "Varm opp tacoskjell etter anvisning på pakken (eller varm tortillas i tørr panne).",
+      "Fyll tacoen med kjøttdeig og ønsket tilbehør. Press lime over til slutt."
+    ],
+    "notater": "Klassisk norsk fredagstaco. Sett alt tilbehør på bordet i skåler – lag din egen."
+  },
+  {
+    "id": 4,
+    "navn": "Pasta med pesto og laks",
+    "kilde": "https://meny.no/oppskrifter/pasta/pasta-med-pesto-og-laks",
+    "porsjoner": 2,
+    "ingredienser": [
+      { "navn": "Laksefilet (uten skinn og ben)", "mengde": 300, "enhet": "g" },
+      { "navn": "Pasta (spaghetti eller tagliatelle)", "mengde": 180, "enhet": "g" },
+      { "navn": "Grønn pesto", "mengde": 3, "enhet": "ss" },
+      { "navn": "Sitron (juice og skall)", "mengde": 0.5, "enhet": "stk" },
+      { "navn": "Parmesan (revet)", "mengde": 30, "enhet": "g" },
+      { "navn": "Cherrytomater", "mengde": 150, "enhet": "g" },
+      { "navn": "Spinat (fersk)", "mengde": 50, "enhet": "g" },
+      { "navn": "Hvitløk", "mengde": 1, "enhet": "fedd" },
+      { "navn": "Olivenolje", "mengde": 1, "enhet": "ss" },
+      { "navn": "Salt og pepper", "mengde": 1, "enhet": "etter smak" }
+    ],
+    "fremgangsmåte": [
+      "Kok pasta al dente etter anvisning på pakken. Ta vare på litt pastavann.",
+      "Stek laksen i olivenolje på middels-høy varme, ca. 3 minutter per side, til den er nesten gjennomstekt men fortsatt litt rosa i midten. Smak til med salt og pepper. Ta av pannen og del i grove flak.",
+      "Ha cherrytomater og presset hvitløk i samme panne, stek i 2 minutter til tomatene begynner å sprekke.",
+      "Bland varm pasta med pesto, sitronsaft og litt revet sitronskall. Tilsett litt pastavann om sausen virker tørr.",
+      "Legg spinat i pastaen og vend raskt til den faller sammen. Legg lakseflaket over.",
+      "Server med revet parmesan på toppen."
+    ],
+    "notater": "Rask hverdagsmiddag – ferdig på 20 minutter."
+  }
+]
